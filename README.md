@@ -1,5 +1,5 @@
 # Letterboxd-to-Senscritique
-Script to import letterboxd to senscritique
+Script to import letterboxd to senscritique made with [Claude AI](https://claude.ai/) 
 ## What the script do
 Parse the format from letterboxd into the zip and get 3 files :
 - ratings.csv
